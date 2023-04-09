@@ -1,0 +1,10 @@
+thermometers
+blower
+workmen
+drain
+facts
+bed
+telephones
+ballast
+composites
+sales

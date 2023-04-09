@@ -1,0 +1,10 @@
+mass
+telephones
+bows
+candidates
+speech
+mouth
+movements
+quality
+cleanliness
+medals

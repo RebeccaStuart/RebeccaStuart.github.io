@@ -1,0 +1,10 @@
+mouth
+board
+hand
+terrain
+cartridge
+maximums
+revisions
+labors
+kettles
+chins

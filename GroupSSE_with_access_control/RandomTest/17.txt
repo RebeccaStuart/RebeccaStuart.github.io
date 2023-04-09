@@ -1,0 +1,10 @@
+lumps
+card
+relation
+pull
+speech
+oar
+medals
+drydock
+compensations
+butts

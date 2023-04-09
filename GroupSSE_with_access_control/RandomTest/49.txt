@@ -1,0 +1,10 @@
+computers
+donors
+relation
+tars
+junk
+quality
+character
+waste
+tries
+document

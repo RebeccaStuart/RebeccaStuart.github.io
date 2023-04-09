@@ -1,0 +1,10 @@
+appearances
+maximums
+quality
+pull
+win
+yards
+sales
+compensations
+parameter
+fatigue
